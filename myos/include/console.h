@@ -1,6 +1,5 @@
 #ifndef MYOS_INCLUDE_CONSOLE_H
 #define MYOS_INCLUDE_CONSOLE_H
-
 //Future Code will go here
 
 static const int VGA_WIDTH = 80;
